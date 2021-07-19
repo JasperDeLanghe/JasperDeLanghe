@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @JasperDeLanghe
 - 👀 I’m interested in web development, games, game development, music and hiking
-- 🌱 I’m currently learning unity and c#
+- 🌱 I’m currently learning tailwindcss
