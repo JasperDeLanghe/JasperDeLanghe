@@ -1,3 +1,3 @@
-- 👋  Hi, I’m @JasperDeLanghe
-- 👀  I’m interested in web development, games, game development, music and hiking
-- 🌱  I’m currently learning tailwindcss, nextjs and strapi
+- 👋&nbsp;&nbsp;Hi, I’m @JasperDeLanghe
+- 👀&nbsp;&nbsp;I’m interested in web development, games, game development, music and hiking
+- 🌱&nbsp;&nbsp;I’m currently learning tailwindcss, nextjs and strapi
