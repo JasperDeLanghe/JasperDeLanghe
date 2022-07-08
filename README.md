@@ -1,3 +1,4 @@
-- 👋&nbsp;&nbsp;Hi, I’m @JasperDeLanghe
-- 👀&nbsp;&nbsp;I’m interested in web development, games, game development, music and hiking
-- 🌱&nbsp;&nbsp;I’m currently learning tailwindcss, nextjs and strapi
+- 👋&nbsp;&nbsp;Hi, I’m Jasper
+- 👀&nbsp;&nbsp;I’m interested in web development, games, music, snowboarding and hiking
+- 💻&nbsp;&nbsp;Mainly working with Gatsby and Stencil.js professionally
+- 🌱&nbsp;&nbsp;I’m currently learning Astro
