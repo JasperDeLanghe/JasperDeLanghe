@@ -1,4 +1,4 @@
 - 👋&nbsp;&nbsp;Hi, I’m Jasper
 - 👀&nbsp;&nbsp;I’m interested in web development, games, music, snowboarding and hiking
 - 💻&nbsp;&nbsp;Mainly working with Gatsby and Stencil.js professionally
-- 🌱&nbsp;&nbsp;I’m currently learning Astro
+- 🌱&nbsp;&nbsp;I’m currently learning Astro & Node
