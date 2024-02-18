@@ -1,4 +1,4 @@
-## Hi there!👋
+## Hi there! 👋
 I'm Jasper, a front-end developer based in Ghent, Belgium.
 Aside from programming, I spend my time playing games, snowboarding and hiking.
 
