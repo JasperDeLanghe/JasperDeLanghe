@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Jasper, a front-end developer based in Ghent, Belgium.
+I'm Jasper, a front-end web developer based in Ghent, Belgium.
 
 Aside from programming, I spend my time playing games, snowboarding and hiking.
 
