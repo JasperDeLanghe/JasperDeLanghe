@@ -14,3 +14,6 @@ I love working with these technologies:
 [![Storyblok](https://img.shields.io/badge/Storyblok-000000?style=for-the-badge&logo=storyblok&logoColor=white)](https://www.storyblok.com/)\
 [![Prisma](https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/)
 ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+![Static Badge](https://img.shields.io/badge/powered_by-coffee-634832)
